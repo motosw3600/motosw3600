@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### My blog
-[](https://cldup.com/dTxpPi9lDf.thumb.png)](https://blog.naver.com/qkrtkddn0917)
+[![N|Solid](https://apprecs.org/gp/images/app-icons/300/92/com.nhn.android.blog.jpg)](https://blog.naver.com/qkrtkddn0917)
