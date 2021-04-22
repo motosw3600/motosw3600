@@ -1,5 +1,9 @@
-# Back-end Developer
+## Hello, I'm sangwoo 
+
 - I like data handling, I prefer backend development
+- I struggle for efficient code
+- What I value is humility
+- I want to be a developer who communicates well
 
 
 ### My Tech Stack ###
@@ -16,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### My blog
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://blog.naver.com/qkrtkddn0917)
+[](https://cldup.com/dTxpPi9lDf.thumb.png)](https://blog.naver.com/qkrtkddn0917)
