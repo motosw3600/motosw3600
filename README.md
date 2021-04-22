@@ -1,4 +1,4 @@
-## Hello, I'm sangwoo 
+## Hello, I'm sangwoo Park
 
 - I like data handling, I prefer backend development
 - I struggle for efficient code
