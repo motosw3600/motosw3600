@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### My blog
-(<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>)](https://blog.naver.com/qkrtkddn0917)
+[![N|Solid]<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>](https://blog.naver.com/qkrtkddn0917)
