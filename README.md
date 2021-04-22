@@ -1,3 +1,7 @@
+# Back-end Developer
+- I like data handling, I prefer backend development
+
+
 ### My Tech Stack ###
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -10,3 +14,6 @@
 motosw3600/motosw3600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### My blog
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://blog.naver.com/qkrtkddn0917)
