@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### My blog
-[![blog](https://apprecs.org/gp/images/app-icons/300/92/com.nhn.android.blog.jpg)](https://blog.naver.com/qkrtkddn0917)
+[![blog](https://apprecs.org/gp/images/app-icons/300/92/com.nhn.android.blog.jpg)]{: width="50%" height="50%"}(https://blog.naver.com/qkrtkddn0917)
