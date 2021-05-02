@@ -1,6 +1,7 @@
 ## Hello, I'm sangwoo Park
 
-- I like data handling, I prefer backend development
+- I prefer ios developer
+- I like code and development
 - I struggle for efficient code
 - What I value is humility
 - I want to be a developer who communicates well
