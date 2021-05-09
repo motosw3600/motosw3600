@@ -8,7 +8,6 @@
 
 
 ### My Tech Stack ###
-#000000
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=CocoaPods&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=Swift&ios=white"/></a>
