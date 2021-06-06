@@ -1,6 +1,7 @@
 ## Hello, I'm sangwoo Park
 
 - I prefer ios developer
+- I am walking step by step based on the basics
 - I struggle for efficient code
 - What I value is humility
 - I want to be a developer who communicates well
