@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### My blog
-[<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>](https://blog.naver.com/qkrtkddn0917)
+[<img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Storyblok&logoColor=white"/></a>](https://motosw3600.tistory.com/)
